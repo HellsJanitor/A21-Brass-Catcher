@@ -1,0 +1,5 @@
+<HellsJanitor>
+	<append xpath="//lootgroup[@name='modGunT3']">		
+		<item name="modGunBrassCatcher"/>
+	</append>
+</HellsJanitor>

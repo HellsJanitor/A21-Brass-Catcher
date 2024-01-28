@@ -1,0 +1,11 @@
+<HellsJanitor>
+	<append xpath="/buffs">
+	<buff name="buffReclaimBrass" hidden="true" remove_on_death="true">
+		<stack_type value="replace"/>
+		<duration value="0.01"/>
+		<effect_group>
+			<triggered_effect trigger="onSelfBuffStart" action="CallGameEvent" event="modBrassCatcher"/>
+		</effect_group>        
+	</buff>
+	</append>	
+</HellsJanitor>

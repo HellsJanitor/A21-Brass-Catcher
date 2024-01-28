@@ -1,0 +1,9 @@
+<HellsJanitor>
+	<append xpath="//trader_item_group[@name='groupRangedMods']">
+		<item name="modGunBrassCatcher"/>
+	</append>
+	
+	<append xpath="//trader_item_group[@name='schematicsModsCommon']">		
+		<item name="modGunBrassCatcherSchematic"/>
+	</append>
+</HellsJanitor>

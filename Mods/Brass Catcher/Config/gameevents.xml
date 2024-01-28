@@ -1,0 +1,10 @@
+<HellsJanitor>
+	<append xpath="/gameevents">
+	<action_sequence name="modBrassCatcher">
+		<action class="AddItems">
+		<property name="added_items" value="resourceBulletCasing" />
+		<property name="added_item_counts" value="1" />
+		</action>
+	</action_sequence>
+	</append>
+</HellsJanitor>
