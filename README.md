@@ -8,9 +8,13 @@ Unlocks with its schematic, and is crafted in a workbench.
 Recipe cost is:
 
 10 forged steel
+
 10 mechanical parts
+
 10 scrap polymer
+
 5 glue
+
 
 >[!NOTE]
 >About the mod:
