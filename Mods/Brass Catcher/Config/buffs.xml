@@ -4,7 +4,7 @@
 		<stack_type value="replace"/>
 		<duration value="0.01"/>
 		<effect_group>
-			<triggered_effect trigger="onSelfBuffStart" action="CallGameEvent" event="modBrassCatcher"/>
+			<triggered_effect trigger="onSelfBuffStart" action="CallGameEvent" event="modBrassCatcher" allow_client_call="true"/>
 		</effect_group>        
 	</buff>
 	</append>	
